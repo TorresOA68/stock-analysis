@@ -11,14 +11,22 @@ To perform the analysis for the stokcs performance during years 2017 and 2018, a
 
 
 
-![](Stocks2017.png)    
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                ![](Stocks2017.png)    
 
 
 
 
 
 
-![](Stocks2018.png)                      
+
+
+
+                                                ![](Stocks2018.png)                      
 
 
 
@@ -38,7 +46,7 @@ Ater run the loop to obtain the return performance we can compare between 2017 a
 
 
 
-![](Stocks_Analys_2017.png) 
+                                                ![](Stocks_Analys_2017.png) 
 
 
 
@@ -46,15 +54,33 @@ Ater run the loop to obtain the return performance we can compare between 2017 a
 
 
 
-![](Stocks_Analys_2017.png)
 
 
 
 
-The total Stocks Daily Volume is bigger during 2017.
 
-Year 2017 had a better Stocks return, is noticed that just TERP was the only company that had a negative return.
+
+
+
+The total Stocks Daily Volume is bigger during 2017. I notice that year 2017 had a better Stocks return, is noticed that just TERP was the only company that had a negative return.
+
+
+
+
+
+                                                ![](Stocks_Analys_2017.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 On the other hand, the stocks had a bad return in 2018, just two companies could have a good return.
-
-
